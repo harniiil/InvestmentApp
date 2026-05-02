@@ -1,0 +1,17 @@
+# Database (generated, contains user data)
+users.db
+
+# Logs
+*.log
+
+# Archives
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
